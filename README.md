@@ -1,6 +1,6 @@
 Olá eu sou o Demétrius Lima !
 
-- 🔭 Eu estou Analista de suporte pleno 
+- 🔭 Eu estou Analista de sistemas sênior
 - 🌱 Sou estudande de Engenharia de Software
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
